@@ -1,1 +1,0 @@
-This is a sample page of Github Page in docs folder.
