@@ -1,5 +1,5 @@
-# normalian.github.com
+normalian.github.com
  
-## とりあえず作ってみたGithubページ
+とりあえず作ってみたGithubページ
  
 hogehoge
