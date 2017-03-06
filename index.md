@@ -1,1 +1,1 @@
-This is a sample page of Github Page.
+This is a sample page of Github Page update.
