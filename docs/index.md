@@ -1,2 +1,1 @@
-とりあえず作ってみたGithubページ。hogehoge。
-
+This is a sample page of Github Page.
