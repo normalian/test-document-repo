@@ -1,5 +1,2 @@
-normalian.github.com
- 
-とりあえず作ってみたGithubページ
- 
-hogehoge
+とりあえず作ってみたGithubページ。hogehoge。
+
