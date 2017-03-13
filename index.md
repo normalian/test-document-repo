@@ -1,13 +1,10 @@
 # Top Page
 
-This is a sample page of Github Page update.
+Github Page ページのサンプルトップページです
 
 
-# VNET and VPN peering visualization with GraphViz
-This PowrShell script output graphviz data of your VNET peerings and VPN peering. You can visualize components connecting to your VNETs in your subscription with Graphviz like below(red lines are VPN peerings, black lines are VNET peerings, green circle is WebApps and yellow circle is Azure Redis Cache).
-![VNet Peering visualization](https://raw.githubusercontent.com/normalian/Azure-VNET-Peering-Visualization/master/VNetPeerVisualize.png "VNet Peering visualization")
+## Microsoft Azure の情報
 
-This PowrShell script supports to visualize components sucha as VNET peerings, VPN peerings, WebApps VPN peerings and Azure Redis Cache.
 
 ## Reference
 - WebGraphviz http://www.webgraphviz.com/
