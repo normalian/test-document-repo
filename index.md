@@ -2,17 +2,13 @@
 
 Github Page ページのサンプルトップページです
 
-
 ## Microsoft Azure の情報
+以下のページから Azure の情報を参照できます。
+[Microsoft Azure 情報のトップページ](https://normalian.github.io/test-document-repo/azure/)
 
-
-## Reference
-- WebGraphviz http://www.webgraphviz.com/
-- Graphviz http://www.graphviz.org/
-
-## Restriction
-- You can't visualize connections from classic-vnets to arm-vnets. Because Get-AzureRmVirtualNetwork command can't get the data.
-- You can't visualize connections of WebApps deployment slots.
+## ASP.NET
+- [ASP.NET Core の疎通を Linux 上でとってみる](http://normalian.hatenablog.com/entry/2017/01/01/132706)
+- [ASP.NET MVCでQuill 〜その２〜](http://normalian.hatenablog.com/entry/20090708/1247076252)
 
 ## Copyright
 <table>
